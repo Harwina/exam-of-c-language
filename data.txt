@@ -1,0 +1,3 @@
+Student Name: heena, Course: computer
+Student Name: mitva, Course: english
+Student Name: jatin, Course: chemistry
